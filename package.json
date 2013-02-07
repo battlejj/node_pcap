@@ -7,5 +7,5 @@
         "type": "git",
         "url": "git://github.com/battlejj/node_pcap.git"
     },
-    "scripts": { "install": "node-gyp rebuild" }
+    "scripts": { "install": "node-gyp build" }
 }
